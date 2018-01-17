@@ -1,2 +1,2 @@
 # bise-maintenant-program
-effets particuliarment/unbiased
+effets particulierment/unbiased
